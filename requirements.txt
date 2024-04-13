@@ -1,0 +1,13 @@
+beautifulsoup4
+html5lib
+jupyterlab
+matplotlib
+numpy
+pandas
+plotly
+requests
+scikit-learn
+scipy
+seaborn
+openpyxl
+statsmodels
