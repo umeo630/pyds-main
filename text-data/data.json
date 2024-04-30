@@ -1,0 +1,1 @@
+"\n{   \"zoo_animal\": \"Lion\",\n    \"food\": [\"Meat\", \"Veggies\", \"Honey\"],\n    \"fur\": \"Golden\",\n    \"clothes\": null,\n    \"diet\": [{\"zoo_animal\": \"Gazelle\", \"food\":\"grass\", \"fur\": \"Brown\"}]\n}\n"
